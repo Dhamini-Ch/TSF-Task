@@ -1,5 +1,5 @@
 #  The Spark foundation
-<img align=right height=40 width=40 src="https://www.thesparksfoundationsingapore.org/images/logo_small.png">
+<img align=right height=70 width=70 src="https://www.thesparksfoundationsingapore.org/images/logo_small.png">
 # Task-1 : Prediction using Supervised ML
   <ol>
        <li>Predict the percentage of a student based on the no. of study hours</li>
