@@ -1,5 +1,4 @@
-#  The Spark foundation
-  <img align=right height=70 width=70 src="https://www.thesparksfoundationsingapore.org/images/logo_small.png">
+#  The Spark foundation <img align=right height=70 width=70 src="https://www.thesparksfoundationsingapore.org/images/logo_small.png">
   
 # Task-1 : Prediction using Supervised ML
   <ol>
