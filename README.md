@@ -15,3 +15,10 @@ This repositary contains my internship tasks given by The spark Foundation
        <li>Data can be found at http://bit.ly/w-data</li>
        <li>What will be predicted score if a student studies for 9.25 hrs/ day?</li>
   </ol>
+  
+  # Task-2 : Prediction using Unsupervised ML
+     <ol>
+         <li>From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually. </li>
+         <li>Use R or Python or perform this task</li>
+         <li>Dataset : https://bit.ly/3kXTdox</li>
+     </ol>
