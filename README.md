@@ -24,3 +24,14 @@ This repositary contains my internship tasks given by The spark Foundation
        <li>Dataset : https://bit.ly/3kXTdox</li>
   </ol>
   
+  
+   # Task-3 :Exploratory Data Analysis - Retail
+  <ol>
+        <li> Perform ‘Exploratory Data Analysis’ on dataset ‘SampleSuperstore’ </li>
+        <li>As a business manager, try to find out the weak areas where you can work to make more profit. </li>
+        <li> What all business problems you can derive by exploring the data? </li>
+        <li>You can choose any of the tool of your choice (Python/R/Tableau/PowerBI/Excel/SAP/SAS) </li>
+        <li>Dataset: https://bit.ly/3i4rbWl</li>
+  </ol>
+  
+  
